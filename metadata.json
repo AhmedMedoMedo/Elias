@@ -1,0 +1,6 @@
+{
+  "name": "نظام البضائع الصيني XL",
+  "description": "نظام متطور لإدارة قوائم البضائع الصينية وتنظيم الصور والأسعار وتصدير ملفات إكسل احترافية بالصور والمعادلات التلقائية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
